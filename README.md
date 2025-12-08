@@ -30,10 +30,10 @@ I focus on building **scalable, data-driven solutions** that improve reporting a
 A complete churn prediction pipeline built on **11,260+ accounts** including EDA, data cleaning, SMOTE balancing, model comparison, and business recommendations.
 
 🔗 **Project Repository:**  
-https://github.com/hemant-shinde/customer-churn-prediction
+https://github.com/shindeh9/customer-churn-prediction
 
-📄 **Full Project Report:**  
-Located under `reports/Customer_Churn_Project_Report.pdf` (see repo)  
+📄 **Full Project Report (PDF)**  
+[Customer Churn Project Report](https://github.com/shindeh9/customer-churn-prediction/blob/main/Capstone_Customer%20Churn_Project%20Report%20Final.pdf) 
 
 Key outcomes:
 - Identified main churn drivers (complaints, cashback, payment mode, tenure)
