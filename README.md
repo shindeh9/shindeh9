@@ -29,8 +29,7 @@ I focus on building **scalable, data-driven solutions** that improve reporting a
 ## 📊 Featured Project: Customer Churn Prediction (Machine Learning)
 A complete churn prediction pipeline built on **11,260+ accounts** including EDA, data cleaning, SMOTE balancing, model comparison, and business recommendations.
 
-🔗 **Project Repository:**  
-https://github.com/shindeh9/customer-churn-prediction
+👉 [View Project](https://github.com/shindeh9/customer-churn-prediction)
 
 📄 **Full Project Report (PDF)**  
 [Customer Churn Project Report](https://github.com/shindeh9/customer-churn-prediction/blob/main/Capstone_Customer%20Churn_Project%20Report%20Final.pdf) 
@@ -39,6 +38,13 @@ Key outcomes:
 - Identified main churn drivers (complaints, cashback, payment mode, tenure)
 - XGBoost model achieved the best recall & F1 on balanced data  
 - Business-led retention strategies derived from feature importance
+
+**Finance & Risk Analytics — Bankruptcy Prediction**  
+Built an early-warning bankruptcy detection model using financial statement data.  
+Applied VIF-based feature selection, SMOTE balancing, and model comparison.  
+Final SMOTE Logistic Regression achieved **82% recall** on distressed firms.  
+👉 [View Project](https://github.com/shindeh9/finance-risk-analytics)
+
 
 ---
 
