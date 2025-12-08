@@ -31,7 +31,7 @@ A complete churn prediction pipeline built on **11,260+ accounts** including EDA
 
 👉 [View Project](https://github.com/shindeh9/customer-churn-prediction)
 
-📄 **Full Project Report (PDF)**  
+📄 **Project Report (PDF)**
 [Customer Churn Project Report](https://github.com/shindeh9/customer-churn-prediction/blob/main/Capstone_Customer%20Churn_Project%20Report%20Final.pdf) 
 
 Key outcomes:
@@ -45,7 +45,8 @@ Applied VIF-based feature selection, SMOTE balancing, and model comparison.
 Final SMOTE Logistic Regression achieved **82% recall** on distressed firms.  
 👉 [View Project](https://github.com/shindeh9/finance-risk-analytics)
 
-📄 **Full Project Report (PDF)** 
+
+📄 **Project Report (PDF)** 
 [Bankruptcy Prediction Project Report](https://github.com/shindeh9/finance-risk-analytics/tree/main/reports)
 
 
