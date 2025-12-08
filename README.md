@@ -44,6 +44,7 @@ Built an early-warning bankruptcy detection model using financial statement data
 Applied VIF-based feature selection, SMOTE balancing, and model comparison.  
 Final SMOTE Logistic Regression achieved **82% recall** on distressed firms.  
 👉 [View Project](https://github.com/shindeh9/finance-risk-analytics)
+[Bankruptcy Prediction Project Report](https://github.com/shindeh9/finance-risk-analytics/tree/main/reports)
 
 
 ---
