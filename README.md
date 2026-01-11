@@ -28,6 +28,7 @@ I focus on building **scalable, data-driven solutions** that improve reporting a
 
 ## 📊 Featured Projects
 **Customer Churn Prediction**
+
 A complete churn prediction pipeline built on **11,260+ accounts** including EDA, data cleaning, SMOTE balancing, model comparison, and business recommendations.
 
 👉 [View Project](https://github.com/shindeh9/customer-churn-prediction)
